@@ -1,0 +1,163 @@
+-- Merging decision tree log ---
+application
+INJECTED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml:12:5-42:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/xtcel/.gradle/caches/transforms-3/e90c2865d59f5e87dc0d01f1810bffa9/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/xtcel/.gradle/caches/transforms-3/e90c2865d59f5e87dc0d01f1810bffa9/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] /Users/xtcel/.gradle/caches/transforms-3/c0ae94b78dde0fc056b7d3a603cab587/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/xtcel/.gradle/caches/transforms-3/c0ae94b78dde0fc056b7d3a603cab587/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/xtcel/.gradle/caches/transforms-3/8afe9e0619bed64f4edf1456d1809bd4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/xtcel/.gradle/caches/transforms-3/8afe9e0619bed64f4edf1456d1809bd4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /Users/xtcel/.gradle/caches/transforms-3/c0ae94b78dde0fc056b7d3a603cab587/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml
+manifest
+ADDED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml:1:1-54:12
+INJECTED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml:1:1-54:12
+INJECTED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml:1:1-54:12
+INJECTED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml:1:1-54:12
+MERGED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml:1:1-54:12
+MERGED from [:permission_handler_android] /Users/xtcel/workspace/flutter/flutter_ble_demo/build/permission_handler_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:flutter_blue_plus_android] /Users/xtcel/workspace/flutter/flutter_ble_demo/build/flutter_blue_plus_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/xtcel/.gradle/caches/transforms-3/f1eb4914a546821fb1ba70ffa91d0750/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/xtcel/.gradle/caches/transforms-3/e90c2865d59f5e87dc0d01f1810bffa9/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/xtcel/.gradle/caches/transforms-3/79779138e093168a421eb6b09f11d5c7/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/xtcel/.gradle/caches/transforms-3/7283974bdaa367aafa45ecf8223f2f8e/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/xtcel/.gradle/caches/transforms-3/8e597448fa2ce12f638a6db64583d3e1/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/xtcel/.gradle/caches/transforms-3/822ebe499b28e51063f8412ff04fc3df/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/xtcel/.gradle/caches/transforms-3/5bc0165f6b3d0d6d677f0e74a95b34ca/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /Users/xtcel/.gradle/caches/transforms-3/c0ae94b78dde0fc056b7d3a603cab587/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/xtcel/.gradle/caches/transforms-3/e30100e0238f3399c5df65f46274faf3/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/xtcel/.gradle/caches/transforms-3/c5a4642fcf38bcd1dbfc6ee081aff8ae/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/xtcel/.gradle/caches/transforms-3/81d9d2a65e8302d50d380e4e69145e8f/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/xtcel/.gradle/caches/transforms-3/003f900e2f843826a17aaa34f3857947/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/xtcel/.gradle/caches/transforms-3/bb84666548e02c0dbe249b547a02b490/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/xtcel/.gradle/caches/transforms-3/70407b5a36969a679918d55737088d25/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/xtcel/.gradle/caches/transforms-3/8afe9e0619bed64f4edf1456d1809bd4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/xtcel/.gradle/caches/transforms-3/c12a56054f9c0f8fcafd223fa8cc5a37/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/xtcel/.gradle/caches/transforms-3/9db5a9051878d2e6e3b2464e88762359/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		INJECTED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml:1:1-54:12
+		INJECTED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml:1:1-54:12
+		INJECTED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml:1:1-54:12
+		INJECTED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml:3:5-68
+	android:name
+		ADDED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml:3:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml:4:5-74
+	android:name
+		ADDED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml:4:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.BLUETOOTH_SCAN
+ADDED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml:9:5-120
+	android:usesPermissionFlags
+		ADDED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml:9:71-117
+	android:name
+		ADDED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml:9:22-70
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml:10:22-73
+uses-permission#android.permission.BLUETOOTH_ADVERTISE
+ADDED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml:11:22-75
+queries
+ADDED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml:48:5-53:15
+intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
+ADDED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml:49:9-52:18
+action#android.intent.action.PROCESS_TEXT
+ADDED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml:50:21-70
+data
+ADDED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml:51:13-50
+	android:mimeType
+		ADDED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml:51:19-48
+uses-sdk
+INJECTED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml
+MERGED from [:permission_handler_android] /Users/xtcel/workspace/flutter/flutter_ble_demo/build/permission_handler_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:permission_handler_android] /Users/xtcel/workspace/flutter/flutter_ble_demo/build/permission_handler_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_blue_plus_android] /Users/xtcel/workspace/flutter/flutter_ble_demo/build/flutter_blue_plus_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-11:41
+MERGED from [:flutter_blue_plus_android] /Users/xtcel/workspace/flutter/flutter_ble_demo/build/flutter_blue_plus_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-11:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/xtcel/.gradle/caches/transforms-3/f1eb4914a546821fb1ba70ffa91d0750/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/xtcel/.gradle/caches/transforms-3/f1eb4914a546821fb1ba70ffa91d0750/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/xtcel/.gradle/caches/transforms-3/e90c2865d59f5e87dc0d01f1810bffa9/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/xtcel/.gradle/caches/transforms-3/e90c2865d59f5e87dc0d01f1810bffa9/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/xtcel/.gradle/caches/transforms-3/79779138e093168a421eb6b09f11d5c7/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/xtcel/.gradle/caches/transforms-3/79779138e093168a421eb6b09f11d5c7/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/xtcel/.gradle/caches/transforms-3/7283974bdaa367aafa45ecf8223f2f8e/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/xtcel/.gradle/caches/transforms-3/7283974bdaa367aafa45ecf8223f2f8e/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/xtcel/.gradle/caches/transforms-3/8e597448fa2ce12f638a6db64583d3e1/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/xtcel/.gradle/caches/transforms-3/8e597448fa2ce12f638a6db64583d3e1/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/xtcel/.gradle/caches/transforms-3/822ebe499b28e51063f8412ff04fc3df/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/xtcel/.gradle/caches/transforms-3/822ebe499b28e51063f8412ff04fc3df/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/xtcel/.gradle/caches/transforms-3/5bc0165f6b3d0d6d677f0e74a95b34ca/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/xtcel/.gradle/caches/transforms-3/5bc0165f6b3d0d6d677f0e74a95b34ca/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /Users/xtcel/.gradle/caches/transforms-3/c0ae94b78dde0fc056b7d3a603cab587/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/xtcel/.gradle/caches/transforms-3/c0ae94b78dde0fc056b7d3a603cab587/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/xtcel/.gradle/caches/transforms-3/e30100e0238f3399c5df65f46274faf3/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/xtcel/.gradle/caches/transforms-3/e30100e0238f3399c5df65f46274faf3/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/xtcel/.gradle/caches/transforms-3/c5a4642fcf38bcd1dbfc6ee081aff8ae/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/xtcel/.gradle/caches/transforms-3/c5a4642fcf38bcd1dbfc6ee081aff8ae/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/xtcel/.gradle/caches/transforms-3/81d9d2a65e8302d50d380e4e69145e8f/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/xtcel/.gradle/caches/transforms-3/81d9d2a65e8302d50d380e4e69145e8f/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/xtcel/.gradle/caches/transforms-3/003f900e2f843826a17aaa34f3857947/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/xtcel/.gradle/caches/transforms-3/003f900e2f843826a17aaa34f3857947/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/xtcel/.gradle/caches/transforms-3/bb84666548e02c0dbe249b547a02b490/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/xtcel/.gradle/caches/transforms-3/bb84666548e02c0dbe249b547a02b490/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/xtcel/.gradle/caches/transforms-3/70407b5a36969a679918d55737088d25/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/xtcel/.gradle/caches/transforms-3/70407b5a36969a679918d55737088d25/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/xtcel/.gradle/caches/transforms-3/8afe9e0619bed64f4edf1456d1809bd4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/xtcel/.gradle/caches/transforms-3/8afe9e0619bed64f4edf1456d1809bd4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/xtcel/.gradle/caches/transforms-3/c12a56054f9c0f8fcafd223fa8cc5a37/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/xtcel/.gradle/caches/transforms-3/c12a56054f9c0f8fcafd223fa8cc5a37/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/xtcel/.gradle/caches/transforms-3/9db5a9051878d2e6e3b2464e88762359/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/xtcel/.gradle/caches/transforms-3/9db5a9051878d2e6e3b2464e88762359/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/debug/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/debug/AndroidManifest.xml:6:22-64
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/xtcel/.gradle/caches/transforms-3/e90c2865d59f5e87dc0d01f1810bffa9/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/xtcel/.gradle/caches/transforms-3/e90c2865d59f5e87dc0d01f1810bffa9/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/xtcel/.gradle/caches/transforms-3/e90c2865d59f5e87dc0d01f1810bffa9/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/xtcel/.gradle/caches/transforms-3/e90c2865d59f5e87dc0d01f1810bffa9/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/xtcel/.gradle/caches/transforms-3/e90c2865d59f5e87dc0d01f1810bffa9/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/xtcel/.gradle/caches/transforms-3/e90c2865d59f5e87dc0d01f1810bffa9/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51

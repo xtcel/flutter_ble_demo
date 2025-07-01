@@ -1,0 +1,14 @@
+com.example.bluetooth_demo.app-jetified-annotation-experimental-1.1.0-0 /Users/xtcel/.gradle/caches/transforms-3/9db5a9051878d2e6e3b2464e88762359/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.bluetooth_demo.app-core-1.6.0-1 /Users/xtcel/.gradle/caches/transforms-3/c0ae94b78dde0fc056b7d3a603cab587/transformed/core-1.6.0/res
+com.example.bluetooth_demo.app-jetified-window-1.0.0-beta04-2 /Users/xtcel/.gradle/caches/transforms-3/e90c2865d59f5e87dc0d01f1810bffa9/transformed/jetified-window-1.0.0-beta04/res
+com.example.bluetooth_demo.app-jetified-window-java-1.0.0-beta04-3 /Users/xtcel/.gradle/caches/transforms-3/f1eb4914a546821fb1ba70ffa91d0750/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.bluetooth_demo.app-debug-4 /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/debug/res
+com.example.bluetooth_demo.app-main-5 /Users/xtcel/workspace/flutter/flutter_ble_demo/android/app/src/main/res
+com.example.bluetooth_demo.app-pngs-6 /Users/xtcel/workspace/flutter/flutter_ble_demo/build/app/generated/res/pngs/debug
+com.example.bluetooth_demo.app-resValues-7 /Users/xtcel/workspace/flutter/flutter_ble_demo/build/app/generated/res/resValues/debug
+com.example.bluetooth_demo.app-rs-8 /Users/xtcel/workspace/flutter/flutter_ble_demo/build/app/generated/res/rs/debug
+com.example.bluetooth_demo.app-mergeDebugResources-9 /Users/xtcel/workspace/flutter/flutter_ble_demo/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.bluetooth_demo.app-mergeDebugResources-10 /Users/xtcel/workspace/flutter/flutter_ble_demo/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.bluetooth_demo.app-merged_res-11 /Users/xtcel/workspace/flutter/flutter_ble_demo/build/app/intermediates/merged_res/debug
+com.example.bluetooth_demo.app-packaged_res-12 /Users/xtcel/workspace/flutter/flutter_ble_demo/build/flutter_blue_plus_android/intermediates/packaged_res/debug
+com.example.bluetooth_demo.app-packaged_res-13 /Users/xtcel/workspace/flutter/flutter_ble_demo/build/permission_handler_android/intermediates/packaged_res/debug

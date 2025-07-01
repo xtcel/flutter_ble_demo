@@ -1,0 +1,38 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_CCCD",
+            "_flutter_blue_plus_darwinVersionNumber",
+            "_flutter_blue_plus_darwinVersionString"
+          ],
+          "objc_class": [
+            "FlutterBluePlusPlugin",
+            "PodsDummy_flutter_blue_plus_darwin"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/flutter_blue_plus_darwin.framework/Versions/A/flutter_blue_plus_darwin"
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "11",
+        "target": "arm64-macos"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

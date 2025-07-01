@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/xtcel/.pub-cache/hosted/pub.flutter-io.cn/flutter_blue_plus_android-4.0.5/android/src/main/AndroidManifest.xml:1:1-6:12
+INJECTED from /Users/xtcel/.pub-cache/hosted/pub.flutter-io.cn/flutter_blue_plus_android-4.0.5/android/src/main/AndroidManifest.xml:1:1-6:12
+INJECTED from /Users/xtcel/.pub-cache/hosted/pub.flutter-io.cn/flutter_blue_plus_android-4.0.5/android/src/main/AndroidManifest.xml:1:1-6:12
+	package
+		ADDED from /Users/xtcel/.pub-cache/hosted/pub.flutter-io.cn/flutter_blue_plus_android-4.0.5/android/src/main/AndroidManifest.xml:1:70-105
+		INJECTED from /Users/xtcel/.pub-cache/hosted/pub.flutter-io.cn/flutter_blue_plus_android-4.0.5/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/xtcel/.pub-cache/hosted/pub.flutter-io.cn/flutter_blue_plus_android-4.0.5/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/xtcel/.pub-cache/hosted/pub.flutter-io.cn/flutter_blue_plus_android-4.0.5/android/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from /Users/xtcel/.pub-cache/hosted/pub.flutter-io.cn/flutter_blue_plus_android-4.0.5/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/xtcel/.pub-cache/hosted/pub.flutter-io.cn/flutter_blue_plus_android-4.0.5/android/src/main/AndroidManifest.xml
+INJECTED from /Users/xtcel/.pub-cache/hosted/pub.flutter-io.cn/flutter_blue_plus_android-4.0.5/android/src/main/AndroidManifest.xml
+INJECTED from /Users/xtcel/.pub-cache/hosted/pub.flutter-io.cn/flutter_blue_plus_android-4.0.5/android/src/main/AndroidManifest.xml
+INJECTED from /Users/xtcel/.pub-cache/hosted/pub.flutter-io.cn/flutter_blue_plus_android-4.0.5/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/xtcel/.pub-cache/hosted/pub.flutter-io.cn/flutter_blue_plus_android-4.0.5/android/src/main/AndroidManifest.xml
+		ADDED from /Users/xtcel/.pub-cache/hosted/pub.flutter-io.cn/flutter_blue_plus_android-4.0.5/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/xtcel/.pub-cache/hosted/pub.flutter-io.cn/flutter_blue_plus_android-4.0.5/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/xtcel/.pub-cache/hosted/pub.flutter-io.cn/flutter_blue_plus_android-4.0.5/android/src/main/AndroidManifest.xml
+		ADDED from /Users/xtcel/.pub-cache/hosted/pub.flutter-io.cn/flutter_blue_plus_android-4.0.5/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/xtcel/.pub-cache/hosted/pub.flutter-io.cn/flutter_blue_plus_android-4.0.5/android/src/main/AndroidManifest.xml
